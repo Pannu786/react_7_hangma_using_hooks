@@ -2,9 +2,10 @@ import React from 'react';
 
 const Header = () => {
   return (
-    <div>
-      <h2>halloo Meow</h2>
-    </div>
+    <>
+      <h2>Hangman</h2>
+      <p>Find the hidden word - Enter a letter</p>
+    </>
   );
 };
 
